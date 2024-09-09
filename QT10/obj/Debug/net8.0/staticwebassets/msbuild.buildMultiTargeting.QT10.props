@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\QT10.props" />
+</Project>
